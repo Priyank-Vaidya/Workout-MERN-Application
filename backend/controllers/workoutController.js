@@ -73,4 +73,4 @@ const updateWorkout = async(req,res)=>{
 }
 
 
-module.exports = {createWorkout, getAllWorkouts,getWorkout,deleteWorkout};
+module.exports = {createWorkout, getAllWorkouts,getWorkout,deleteWorkout, updateWorkout};
